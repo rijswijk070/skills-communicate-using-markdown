@@ -8,7 +8,7 @@
 
 ![Alt text describing the image][(https://octodex.github.com/images/yaktocat.png))
 
-'''
+```text
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-'''
+```
